@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6808" started-at="2018-06-24T09:30:36Z" finished-at="2018-06-24T09:30:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6808" started-at="2018-06-24T09:30:36Z" finished-at="2018-06-24T09:30:43Z">
+      <class name="RestPackage.RestClass">
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:RestPackage.RestClass@cc285f4]" name="setBaseUri" is-config="true" duration-ms="282" started-at="2018-06-24T09:30:36Z" finished-at="2018-06-24T09:30:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseUri -->
+        <test-method status="PASS" signature="getURIResp()[pri:0, instance:RestPackage.RestClass@cc285f4]" name="getURIResp" is-config="true" duration-ms="2199" started-at="2018-06-24T09:30:36Z" finished-at="2018-06-24T09:30:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURIResp -->
+        <test-method status="PASS" signature="verifyGetURI()[pri:0, instance:RestPackage.RestClass@cc285f4]" name="verifyGetURI" duration-ms="5" started-at="2018-06-24T09:30:38Z" finished-at="2018-06-24T09:30:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetURI -->
+        <test-method status="PASS" signature="getURIResp()[pri:0, instance:RestPackage.RestClass@cc285f4]" name="getURIResp" is-config="true" duration-ms="1156" started-at="2018-06-24T09:30:38Z" finished-at="2018-06-24T09:30:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURIResp -->
+        <test-method status="PASS" signature="verifyPostId40Count()[pri:0, instance:RestPackage.RestClass@cc285f4]" name="verifyPostId40Count" duration-ms="930" started-at="2018-06-24T09:30:39Z" finished-at="2018-06-24T09:30:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPostId40Count -->
+        <test-method status="PASS" signature="getURIResp()[pri:0, instance:RestPackage.RestClass@cc285f4]" name="getURIResp" is-config="true" duration-ms="1117" started-at="2018-06-24T09:30:40Z" finished-at="2018-06-24T09:30:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURIResp -->
+        <test-method status="PASS" signature="verifyPostId40Data()[pri:0, instance:RestPackage.RestClass@cc285f4]" name="verifyPostId40Data" duration-ms="1095" started-at="2018-06-24T09:30:42Z" finished-at="2018-06-24T09:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPostId40Data -->
+      </class> <!-- RestPackage.RestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
