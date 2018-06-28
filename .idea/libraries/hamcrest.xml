@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hamcrest">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/hamcrest" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/hamcrest" recursive="false" />
+  </library>
+</component>
