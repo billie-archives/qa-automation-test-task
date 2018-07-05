@@ -1,0 +1,12 @@
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\rest-automation-test-task-dotNet\bin\Debug\rest-automation-test-task-dotNet.dll
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\rest-automation-test-task-dotNet\bin\Debug\rest-automation-test-task-dotNet.pdb
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\rest-automation-test-task-dotNet\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\rest-automation-test-task-dotNet\bin\Debug\Utils.dll
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\rest-automation-test-task-dotNet\bin\Debug\Utils.pdb
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\rest-automation-test-task-dotNet\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\rest-automation-test-task-dotNet\obj\Debug\rest-automation-test-task-dotNet.csprojResolveAssemblyReference.cache
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\rest-automation-test-task-dotNet\obj\Debug\rest-automation-test-task-dotNet.dll
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\rest-automation-test-task-dotNet\obj\Debug\rest-automation-test-task-dotNet.pdb
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\rest-automation-test-task-dotNet\bin\Debug\Newtonsoft.Json.dll
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\rest-automation-test-task-dotNet\bin\Debug\Newtonsoft.Json.xml
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\rest-automation-test-task-dotNet\bin\Debug\rest-automation-test-task-dotNet.dll.config

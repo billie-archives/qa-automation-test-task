@@ -1,0 +1,7 @@
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\Utils\bin\Debug\Utils.dll
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\Utils\bin\Debug\Utils.pdb
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\Utils\bin\Debug\Newtonsoft.Json.dll
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\Utils\bin\Debug\Newtonsoft.Json.xml
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\Utils\obj\Debug\Utils.dll
+D:\Personal\GitHub\qa-automation-test-task\rest-automation-test-task-dotNet\Utils\obj\Debug\Utils.pdb
